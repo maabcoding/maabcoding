@@ -1,4 +1,4 @@
-# Hi there, <span style="color:blueviolet">I'm MD. AL-AMIN BHUIYAN 👋</span>
+# Hi there, <span style="color: red;">I'm MD. AL-AMIN BHUIYAN 👋</span>
 
 Welcome to my GitHub profile! I'm an enthusiastic **Mathematics student**, **Web Developer**, and a lifelong learner. My journey into technology and development is fueled by curiosity, creativity, and a passion for building things that make life easier.
 
