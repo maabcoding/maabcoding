@@ -45,9 +45,9 @@ Here's what I work with:
 
 Feel free to connect with me:
 
-- 📧 Email: [Your Email Here]
-- 💼 LinkedIn: [Your LinkedIn Profile Here]
-- 🌐 Portfolio: [Your Portfolio Link Here] (if available)
+- 📧 Email: maabcoding@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/maabcoding/
+- 🌐 Portfolio: (not available now)
 
 ---
 
